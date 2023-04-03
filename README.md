@@ -1,5 +1,7 @@
 # Parental-leave-Report
 
+ From Tech to retail: Do you think every Industry needs to get on board with parental leave policies?
+
 ## Technical Tools: 
 
 Power BI, Excel, DAX, power Query
@@ -8,7 +10,9 @@ Power BI, Excel, DAX, power Query
 
 Create a visualization of a crowdsource parental leave data for article publication.
 
-# Data Collection: The data was collected from the maven analytics playground; The data set contains 1601 records and 6 columns.
+# Data Collection: 
+
+The data was collected from the maven analytics playground; The data set contains 1601 records and 6 columns.
 
 ## Data pre process:
 
