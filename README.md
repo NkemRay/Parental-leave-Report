@@ -1,14 +1,21 @@
 # Parental-leave-Report
 
-## Technical Tools: Power BI, Excel, DAX, power Query
+## Technical Tools: 
 
-## Problem Statement: Create a visualization of a crowdsource parental leave data for article publication.
+Power BI, Excel, DAX, power Query
+
+## Problem Statement: 
+
+Create a visualization of a crowdsource parental leave data for article publication.
 
 # Data Collection: The data was collected from the maven analytics playground; The data set contains 1601 records and 6 columns.
 
-## Data pre process: The data was not too messy. Just filled up the missing values on the numeric column with '0 ' because the number of missing values were 0ver 90% of the entire data. so deleting the records would lead to lost of important information.
+## Data pre process:
 
-# Data Analysis: Imported the data into power BI, use power Query to accurately format some columns data types and DAX functions to create calculated measures needed for the analysis
+The data was not too messy. Just filled up the missing values on the numeric column with '0 ' because the number of missing values were 0ver 90% of the entire data. so deleting the records would lead to lost of important information.
+
+# Data Analysis: 
+Imported the data into power BI, use power Query to accurately format some columns data types and DAX functions to create calculated measures needed for the analysis
 
 # Insight:
 
@@ -41,5 +48,5 @@ Some companies could not adopt the parental leave policy due to cost. These coul
 Also, in some countries there may be no governmental policy requiring employers to offer parental leave.Therefore, Employers don't see the need for parental leave. Regardless, parental leave policies should be incorporated in every Industry to increase productivity by the employees and loyalty
 
 
- The  Dashboard:
+## The  Dashboard:
 https://app.powerbi.com/links/PFc80vVQ71?ctid=515ddfe1-0219-4c5c-a8a7-43b117b25796&pbi_source=linkShare
