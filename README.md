@@ -16,7 +16,9 @@ The data was collected from the maven analytics playground; The data set contain
 
 ## Data pre process:
 
-The data was not too messy. Just filled up the missing values on the numeric column with '0 ' because the number of missing values were 0ver 90% of the entire data. so deleting the records would lead to lost of important information.
+Tool: Excel
+
+The dataset was not too messy. Just filled up the missing values on the numeric column with '0 ' because the number of missing values were 0ver 90% of the entire data. so deleting the records would lead to lost of important information.
 
 # Data Analysis: 
 Imported the data into power BI, use power Query to accurately format some columns data types and DAX functions to create calculated measures needed for the analysis
